@@ -93,8 +93,8 @@ content:
           O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
       - layout: top-middle
         title: Mapajud
-        link: http://hibrida.pjexperience.com.br/
-        link_text: Híbrida
+        link: https://github.com/andersonsimplicio/geocrimeambiental
+        link_text: MapaJud
         additional_links:
           - title: Tecnologias
             icon: fab fa-python
@@ -102,12 +102,11 @@ content:
             icon: fab fa-linux
             
         quote: >
-          É um projeto que tem por objetivo assegurar a redução no lapso temporal da tramitação dos processos 
+          LIODS CNJ - Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável 
         description: | 
-          concretizando os princípios da eficiência e eficácia administrativa, celeridade processual e acesso à justiça.
-          Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
-          código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
-          O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
+         MapaJud indexa o número único do processo de terras públicas ao código do SireneJud exibindo inclusive outras
+         bases de dados de georreferenciamento como INCRA, Sistema de Gestão Fundiária (SIGEF), Cadastro Ambiental Rural (CAR),
+         Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
   - title: Experiência
     layout: list
     content:
