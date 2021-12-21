@@ -45,7 +45,12 @@ about_content: |
       <mark style="background-color:#3499cd;font-weight: bold;">Scikit-learn</mark>
       <mark style="background-color:#0a5773;font-weight: bold;">Pandas</mark>
 
-    - <a href="google.com">Links</a>
+    - <mark style="background-color:#214ce5;font-weight: bold;">html</mark>
+      <mark style="background-color:#214ce5;font-weight: bold;">css</mark>
+      <mark style="background-color:#f7e018;font-weight: bold;">javascript</mark>
+      <mark style="background-color:#287eb7;font-weight: bold;">react</mark>
+      <mark style="background-color:#ffdc52;font-weight: bold;">react-native</mark>
+      <mark style="background-color:#75ac64;font-weight: bold;">nodejs</mark>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
