@@ -59,22 +59,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-          title: PJExperience
-          link: https://www.pjexperience.com.br/
-          link_text: pjexperience
-          additional_links:
-            - title: Teste
-              icon: fab fa-github
-              url: teste
-            - title: teste
-              icon: fab fa-github
-              url: teste
-          quote: >
-           Sistema de Simulação de processo Judicial Eletrônico 
-          description: | 
-            O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
-            sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
-            tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
+        title: PJExperience
+        link: https://www.pjexperience.com.br/
+        link_text: pjexperience
+        additional_links:
+          - title: Teste
+            icon: fab fa-github
+            url: teste
+          - title: teste
+            icon: fab fa-github
+            url: teste
+        quote: >
+          Sistema de Simulação de processo Judicial Eletrônico 
+        description: | 
+          O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
+          sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
+          tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
       - layout: center
         title: Híbrida
         link: http://hibrida.pjexperience.com.br/
