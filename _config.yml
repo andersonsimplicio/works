@@ -25,11 +25,17 @@ linkedin_username: anderson-simplicio-77081b50
 
 # About Section
 # about_title: About Me (Use this to override about section title)
+about_title: Sobre Min
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_content: |
+  Sou Pós-Graduando em Ciência de Dados pela Pontifícia Universidade Católica de Minas Gerais em 2021/2022. 
+  Tecnologo em Sistemas para Internet pelo Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas.
+  Possuo experiência em programação back-end com framework Django e algumas atividades com Ciência de Dados 
+  cuja a especialização está em fase de conclusão.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  Possuo o objetivo de formação na área de Inteligência Computacional, me permitindo criar sistemas web/mobile
+  integrados com aplicações de Machine Learning.
+
     - Lists
     - Tables
     - <a href="google.com">Links</a>
