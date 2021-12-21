@@ -107,6 +107,26 @@ content:
          MapaJud indexa o número único do processo de terras públicas ao código do SireneJud exibindo inclusive outras
          bases de dados de georreferenciamento como INCRA, Sistema de Gestão Fundiária (SIGEF), Cadastro Ambiental Rural (CAR),
          Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
+      
+      - layout: top-middle
+        title: PetShop app
+        link: https://github.com/andersonsimplicio/pestshop
+        link_text: PetShop
+        additional_links:
+          - title: Tecnologias
+            icon: fab fa-react
+          - title: Tecnologias
+            icon: fab fa-linux
+            
+        quote: >
+          Um app com intuito de atender demandas de um PetShop para agendamento de serviços 
+        description: | 
+          Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo
+
+
+
+
+
   - title: Experiência
     layout: list
     content:
