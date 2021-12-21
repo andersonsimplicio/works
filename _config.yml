@@ -65,6 +65,7 @@ content:
         additional_links:
           - title: Tecnologias
             icon: fab fa-python
+          - title: Tecnologias
             icon: fab fa-linux
             
         quote: >
@@ -80,6 +81,24 @@ content:
         additional_links:
           - title: Tecnologias
             icon: fab fa-python
+          - title: Tecnologias
+            icon: fab fa-linux
+
+        quote: >
+          É um projeto que tem por objetivo assegurar a redução no lapso temporal da tramitação dos processos 
+        description: | 
+          concretizando os princípios da eficiência e eficácia administrativa, celeridade processual e acesso à justiça.
+          Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
+          código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
+          O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
+      - layout: top-middle
+        title: Mapajud
+        link: http://hibrida.pjexperience.com.br/
+        link_text: Híbrida
+        additional_links:
+          - title: Tecnologias
+            icon: fab fa-python
+          - title: Tecnologias
             icon: fab fa-linux
             
         quote: >
@@ -89,7 +108,6 @@ content:
           Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
           código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
           O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
-
   - title: Experiência
     layout: list
     content:
