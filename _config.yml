@@ -39,7 +39,11 @@ about_content: |
   Meus estudos englobam:
     - <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
       <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
-    - Tables
+    - <mark style="background-color:#5F9EA0;font-weight: bold;">Python</mark>
+      <mark style="background-color:#5F9EA0;font-weight: bold;">Django</mark>
+      <mark style="background-color:#5F9EA0;font-weight: bold;">Scikit-learn</mark>
+      <mark style="background-color:#5F9EA0;font-weight: bold;">Pandas</mark>
+      
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
