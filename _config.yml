@@ -48,9 +48,9 @@ about_content: |
 
     - <mark style="background-color:#214ce5;font-weight: bold;">HTML</mark>
       <mark style="background-color:#214ce5;font-weight: bold;">CSS</mark>
-      <mark style="background-color:#f7e018;font-weight: bold;">JavaScript</mark>
+      <mark style="background-color:#4682B4;font-weight: bold;">JavaScript</mark>
       <mark style="background-color:#287eb7;font-weight: bold;">React</mark>
-      <mark style="background-color:#ffdc52;font-weight: bold;">React-Native</mark>
+      <mark style="background-color:#008B8B;font-weight: bold;">React-Native</mark>
       <mark style="background-color:#75ac64;font-weight: bold;">Nodejs</mark>
     
 
@@ -75,7 +75,7 @@ content:
           O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
           sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
           tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
-
+      - layout: center
         title: Híbrida
         link: http://hibrida.pjexperience.com.br/
         link_text: Híbrida
