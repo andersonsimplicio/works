@@ -58,7 +58,7 @@ content:
   - title: Projetos # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-middle
         title: PJExperience
         link: https://www.pjexperience.com.br/
         link_text: pjexperience
@@ -75,7 +75,7 @@ content:
           O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
           sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
           tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
-      - layout: center
+      - layout: top-middle
         title: Híbrida
         link: http://hibrida.pjexperience.com.br/
         link_text: Híbrida
