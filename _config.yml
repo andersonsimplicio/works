@@ -60,8 +60,8 @@ content:
     content:
       - layout: center
         title: PJExperience
-        link: sproogen.github.io/modern-resume-theme
-        link_text: https://www.pjexperience.com.br/
+        link: https://www.pjexperience.com.br/
+        link_text: pjexperience
         additional_links:
           - title: Teste
             icon: fab fa-github
@@ -70,9 +70,11 @@ content:
             icon: fab fa-github
             url: teste
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Sistema de Simulação de processo Judicial Eletrônico 
+        description: | 
+          O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
+          sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
+          tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
   - title: Experiência
     layout: list
     content:
