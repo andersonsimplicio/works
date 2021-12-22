@@ -37,7 +37,8 @@ about_content: |
   integrados com aplicações de Machine Learning.
 
   Meus estudos englobam:
-    - <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
+      icon: fab fa-python
+      <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
       <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
 
     - <mark style="background-color:#000080;font-weight: bold;">Python</mark>
