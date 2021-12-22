@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Anderson José Simplicio
 title: Programador Python/Django e Cientista de Dados
-email: anderson25eu@gmail.cm
+email: anderson25eu@gmail.com
 website: https://www.pjexperience.com.br/
 
 
@@ -18,7 +18,6 @@ darkmode: false
 # Social links
 
 github_username: andersonsimplicio
-
 instagram_username: simplicioanderson
 linkedin_username: anderson-simplicio-77081b50
 
@@ -38,14 +37,18 @@ about_content: |
 
   Meus estudos atuais:
        
-    <i class="fab fa-linux" style="color:black;"></i> <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
+    <i class="fab fa-linux" style="color:black;"></i> 
+    <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
     <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
+    
 
     <i style="color:#3499cd;" class="fab fa-python"></i> 
     <mark style="background-color:#000080;font-weight: bold;">Python</mark>
     <mark style="background-color:#4B0082;font-weight: bold;">Django</mark>
     <mark style="background-color:#002b51;font-weight: bold;">REST</mark>
     <mark style="background-color:#3499cd;font-weight: bold;">Scikit-learn</mark>
+    <mark style="background-color:#3499cd;font-weight: bold;">Numpy</mark>
+    <mark style="background-color:#3499cd;font-weight: bold;">Scipy</mark>
     <mark style="background-color:#0a5773;font-weight: bold;">Pandas</mark>
 
     <i class="fab fa-react" style="color:#287eb7;"></i>
@@ -58,7 +61,7 @@ about_content: |
     
 
 content:
-  - title: Projetos # Title for the section
+  - title: <i class="fas fa-project-diagram"></i> Projetos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -77,6 +80,12 @@ content:
           O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
           sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
           tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
+           <br>
+           <div style="text-align: center;">
+           <img style="border-radius:5px" src="images/pjex.png" width=520px height=240px ><br>
+           <hr>  
+           </div>
+
       - layout: top-middle
         title: Híbrida
         link: http://hibrida.pjexperience.com.br/
@@ -93,24 +102,31 @@ content:
           concretizando os princípios da eficiência e eficácia administrativa, celeridade processual e acesso à justiça.
           Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
           código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
-          O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
+          O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.<br>
+          <div style="text-align: center;">
+          <img style="border-radius:5px" src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" width=320px height=240px ><br><hr>
+          </div>
       - layout: top-middle
-        title: Mapajud
+        title: MapaJud 
         link: https://github.com/andersonsimplicio/geocrimeambiental
-        link_text: MapaJud
+        link_text: MapaJud  
         additional_links:
           - title: Tecnologias
             icon: fab fa-python
           - title: Tecnologias
             icon: fab fa-linux
-            
-        quote: >
-          LIODS CNJ - Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável 
-        description: | 
+                  
+        quote: >     
+          LIODS CNJ - Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável
+        description: |       
          MapaJud indexa o número único do processo de terras públicas ao código do SireneJud exibindo inclusive outras
          bases de dados de georreferenciamento como INCRA, Sistema de Gestão Fundiária (SIGEF), Cadastro Ambiental Rural (CAR),
          Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
-      
+          <br>
+          <div style="text-align: center;">
+          <img style="border-radius:5px" src="images/mapajud.png" width=520px height=240px ><br>
+          <hr>  
+          </div>
       - layout: top-middle
         title: PetShop app
         link: https://github.com/andersonsimplicio/pestshop
@@ -119,14 +135,15 @@ content:
           - title: Tecnologias
             icon: fab fa-react
           - title: Tecnologias
-            icon: fab fa-linux          
-            
+            icon: fab fa-linux                      
         quote: >
-          Um app com intuito de atender demandas de um PetShop para agendamento de serviços 
+          Um app com intuito de atender demandas de um PetShop para agendamento de serviços
         description: | 
-          Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo
-
-  - title: Experiência
+          Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo <br>
+          <div style="text-align: center;">
+          <img style="border-radius:5px" src="https://github.com/andersonsimplicio/pestshop/raw/main/assets/TelaExemplo.png?raw=true" width=520px height=340px ><br>
+          </div>
+  - title: <i class="fas fa-business-time"></i> Experiência
     layout: list
     content:
       - layout: right
@@ -164,27 +181,104 @@ content:
           de Engenharias Elétrica e Civil.
 
 
-  - title: Formação
+  - title: <i class="fas fa-graduation-cap"></i> Formação
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
+        sub_title: Curso Superior de Tecnologia em Sistemas para Internet
+        caption: 2007 - 2010
         quote: >
-          Short institution or course description (optional)
+           O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) é uma instituição pública e gratuita que
+           enfatiza ao máximo tudo aquilo que possa tornar a sociedade mais justa, qualificada e participativa.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+           Tecnologia em Sistemas para Internet visa à formação de recursos humanos para atuarem no desenvolvimento
+           de soluções técnicas relacionadas à Internet, dando forte ênfase à utilização de laboratórios,
+           para capacitar os alunos no uso eficiente dessas tecnologias. O tecnólogo em Sistemas para Internet
+           é um profissional que pode atuar de forma autônoma, nos limites de sua responsabilidade técnica, junto a 
+           indústrias, empresas comerciais ou instituições governamentais que utilizem tecnologias de informação, 
+           podendo atuar em diversas atividades ligadas a planejamento, projetos, comercialização, implantação, operação
+           e manutenção de sistemas de Informática, bem como continuar seus estudos em cursos de pós-graduação ou seguir a área de 
+           pesquisa científica, trabalhando em instituições de pesquisa ou ensino voltadas para novas tecnologias na área de
+           Sistemas para Internet.
+
+      - layout: top-right
+        title: Pontifícia Universidade Católica de Minas Gerais
+        sub_title: Ciência de Dados e Big Data
+        caption: 2021 - 2022
+        quote: >
+          Considerada uma das melhores universidades privadas do Brasil – é a única instituição privada de Minas Gerais 
+          a fazer parte do ranking das melhores universidades do mundo: o Times Higher Education e eleita por seis vezes
+          pelo Guia do Estudante, publicação da Editora Abril, como a melhor entre as particulares do país -  
+          a PUC Minas é reconhecida pela Congregação para a Educação Católica, do Vaticano, como a maior universidade 
+          católica do mundo, abrigando mais de 85 mil alunos em cursos de graduação e pós-graduação.
+        description: | # this will include new lines to allow paragraphs
+          O crescimento do mercado para as atividades de business analytics e para as tecnologias de Big Data é real 
+          e as previsões são ainda mais promissoras. Isso, por consequência, já direciona para uma demanda efetiva por
+          novos profissionais como o Cientista de Dados que devem ter competências e habilidades para entender bem as 
+          estratégias e necessidades do negócio e gerenciar, projetar e desenvolver soluções de análise em grandes volumes
+          de dados. 
+
+          O curso é direcionado para formar esse profissional. Através de disciplinas teóricas e práticas, os alunos são conduzidos 
+          a estudar e experimentar os conceitos, vivenciando a aplicação de técnicas para desenvolvimento de projetos relacionados 
+          a Ciência de Dados e Big Data com o intuito de gerar valor para os negócios. 
+ 
+  
+  - title: <i class="fab fa-old-republic"></i> Mais sobre Min
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Gosto de desavios que estimule tudo que aprendi, mas que me chama para novos conhecimentos, por sempre busco oportunidades
+      de fazer o diferencial. durante minha formação busquei completa integração com a comunidade academica e em conjunto contruímos
+      e participamos de novos desafios.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - <strong style="font-weight: bold;">Maratona de Programação da Sociedade Brasileira de Computação (SBC)</strong>
+        
+        Data: 20/09/2008 - duração 9 Horas
+        
+        Local: Universidade Salgado de Oliveira
+        
+        Campus Juiz de Fora - Av. dos Andradas, 731 – Morro da Glória
+        
+        Juiz de Fora/MG - CEP: 36036-000
+        
+        Telefone:(32) 3311-9900
+
+      - <strong style="font-weight: bold;">Maratona de Programação da Sociedade Brasileira de Computação (SBC)</strong>
+        
+        Data: 19/09/2009 - duração 9 Horas
+
+        Local: Universidade Salgado de Oliveira
+        
+        Campus Juiz de Fora - Av. dos Andradas, 731 – Morro da Glória
+        
+        Juiz de Fora/MG - CEP: 36036-000
+        
+        Telefone:(32) 3311-9900  
+
+
+
+      - <strong style="font-weight: bold;"> O Profissional de TI na era da Internet. </Strong>
+
+        Data: 18/02/2009
+      
+        Local: Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas - Campus Barbacena.
+      
+      - <strong style="font-weight: bold;">IV LINUX DAY- Software Livre</strong>
+        
+        Data: 07/11/2009 - duração 10 Horas
+        
+        Local: Instituto Vianna Júnior
+        
+        Av. dos Andradas, 415 - CEP 36036-000 - Centro - Juiz de Fora – MG viannajr@viannajr.edu.br
+        
+
+
+ 
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: <i class="fas fa-jedi" style="color:#287eb7;"></i>
+                  
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
