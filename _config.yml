@@ -7,6 +7,7 @@ version: 2
 
 # Personal info
 name: Anderson José Simplicio
+icon: fab fa-python
 title:  Programador Python/Django e Cientista de Dados
 email: anderson25eu@gmail.cm
 website: https://www.pjexperience.com.br/
@@ -37,8 +38,8 @@ about_content: |
   integrados com aplicações de Machine Learning.
 
   Meus estudos englobam:
-      icon: fab fa-python
-      <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
+       
+    - <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
       <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
 
     - <mark style="background-color:#000080;font-weight: bold;">Python</mark>
