@@ -117,7 +117,7 @@ content:
           - title: Tecnologias
             icon: fab fa-react
           - title: Tecnologias
-            icon: fab fa-linux
+            icon: fab fa-linux          
             
         quote: >
           Um app com intuito de atender demandas de um PetShop para agendamento de serviços 
@@ -125,18 +125,43 @@ content:
           Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo
 
   - title: Experiência
-    icon: fas fa-briefcase
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Senac Minas 
+        sub_title: Orientador de Cursos
+        caption: Janeiro 2013 - Novembro 2020
+        link: https://www.mg.senac.br/
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          A Instituição é referência em educação profissional na área de comércio de bens, serviços e turismo.
+          O Senac oferece, nas modalidades presencial e a distância, cursos livres e técnicos, além de graduação e MBA . 
+        description: | 
+          Cursos de atuação no <strong style="font-weight: bold;">Senac</strong>:
+          
+          <i class="fab fa-linux"></i>Técnico em Redes de Computador com destaque para disciplina de Servidores Linux, na qual tinha paixão em lecionar
+            e quase sempre concluíamos o livro de Servidores Linux - Guia Prático (Carlos E. Morimoto).
+          
+          <i class="fab fa-python"></i>Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
+          min com a disciplina base do curso.
+
+      - layout: right
+        title: Universidade de Uberaba
+        sub_title: Prof. de Práticas Laboratoriais
+        caption: Janeiro 2012 - Julho 2021
+        link: https://uniube.br/
+        quote: >
+          A história da hoje Universidade de Uberaba, Instituição sem fins lucrativos, mantida pela Sociedade Educacional 
+          Uberabense, remonta ao ano de 1940, quando Mário Palmério funda o Lyceu do Triângulo Mineiro, com sede, inicialmente,
+          na Rua Manoel Borges.  
+
+        description: | 
+          Cursos de atuação no <strong style="font-weight: bold;">Uniube</strong>:
+
+          Na universidade de Uberaba, ministrava aulas de práticas laboratoriais de lógica de programação,
+          linguagem técnica de programação, métodos, ferramentas computacionais e tecnologicas, para os cursos
+          de Engenharias Elétrica e Civil.
+
+
   - title: Formação
     layout: list
     content:
