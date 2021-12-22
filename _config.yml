@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Anderson José Simplicio
-title:  Programador Python/Django e Cientista de Dados
+title: Programador Python/Django e Cientista de Dados
 email: anderson25eu@gmail.cm
 website: https://www.pjexperience.com.br/
 
@@ -36,23 +36,25 @@ about_content: |
   Possuo o objetivo de formação na área de Inteligência Computacional, me permitindo criar sistemas web/mobile
   integrados com aplicações de Machine Learning.
 
-  Meus estudos englobam:
+  Meus estudos atuais:
        
-    - <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
-      <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
+    <i class="fab fa-linux" style="color:black;"></i> <mark style="background-color:#5F9EA0;font-weight: bold;">Linux Desktop</mark>
+    <mark style="background-color:#008080;font-weight: bold;">Servidores Linux</mark>
 
-    - <mark style="background-color:#000080;font-weight: bold;">Python</mark>
-      <mark style="background-color:#4B0082;font-weight: bold;">Django</mark>
-      <mark style="background-color:#002b51;font-weight: bold;">REST</mark>
-      <mark style="background-color:#3499cd;font-weight: bold;">Scikit-learn</mark>
-      <mark style="background-color:#0a5773;font-weight: bold;">Pandas</mark>
+    <i style="color:#3499cd;" class="fab fa-python"></i> 
+    <mark style="background-color:#000080;font-weight: bold;">Python</mark>
+    <mark style="background-color:#4B0082;font-weight: bold;">Django</mark>
+    <mark style="background-color:#002b51;font-weight: bold;">REST</mark>
+    <mark style="background-color:#3499cd;font-weight: bold;">Scikit-learn</mark>
+    <mark style="background-color:#0a5773;font-weight: bold;">Pandas</mark>
 
-    - <mark style="background-color:#214ce5;font-weight: bold;">HTML</mark>
-      <mark style="background-color:#214ce5;font-weight: bold;">CSS</mark>
-      <mark style="background-color:#4682B4;font-weight: bold;">JavaScript</mark>
-      <mark style="background-color:#287eb7;font-weight: bold;">React</mark>
-      <mark style="background-color:#008B8B;font-weight: bold;">React-Native</mark>
-      <mark style="background-color:#75ac64;font-weight: bold;">Nodejs</mark>
+    <i class="fab fa-react" style="color:#287eb7;"></i>
+    <mark style="background-color:#214ce5;font-weight: bold;">HTML</mark>
+    <mark style="background-color:#214ce5;font-weight: bold;">CSS</mark>
+    <mark style="background-color:#4682B4;font-weight: bold;">JavaScript</mark>
+    <mark style="background-color:#287eb7;font-weight: bold;">React</mark>
+    <mark style="background-color:#008B8B;font-weight: bold;">React-Native</mark>
+    <mark style="background-color:#75ac64;font-weight: bold;">Nodejs</mark>
     
 
 content:
@@ -138,11 +140,11 @@ content:
         description: | 
           Cursos de atuação no <strong style="font-weight: bold;">Senac</strong>:
           
-          <i class="fab fa-linux"></i>Técnico em Redes de Computador com destaque para disciplina de Servidores Linux, na qual tinha paixão em lecionar
+          - Técnico em Redes de Computador com destaque para disciplina de Servidores Linux, na qual tinha paixão em lecionar
             e quase sempre concluíamos o livro de Servidores Linux - Guia Prático (Carlos E. Morimoto).
           
-          <i class="fab fa-python"></i>Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
-          min com a disciplina base do curso.
+          - Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
+            min com a disciplina base do curso.
 
       - layout: right
         title: Universidade de Uberaba
