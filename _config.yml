@@ -58,8 +58,13 @@ about_content: |
     <mark style="background-color:#287eb7;font-weight: bold;">React</mark>
     <mark style="background-color:#008B8B;font-weight: bold;">React-Native</mark>
     <mark style="background-color:#75ac64;font-weight: bold;">Nodejs</mark>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsimplicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsimplicio&layout=compact&langs_count=16&theme=dark"/>
+    </div>
     
-
+    
+    
 content:
   - title: <i class="fas fa-project-diagram"></i> Projetos # Title for the section
     layout: list # Type of content section (list/text)
@@ -270,10 +275,8 @@ content:
         Local: Instituto Vianna Júnior
         
         Av. dos Andradas, 415 - CEP 36036-000 - Centro - Juiz de Fora – MG viannajr@viannajr.edu.br
-        
-
-
- 
+        <hr>
+      <img aling="center" height="150em" width="100%" src="https://raw.githubusercontent.com/andersonsimplicio/works/output/github-contribution-grid-snake.svg" >
 
 # Footer
 footer_show_references: true
