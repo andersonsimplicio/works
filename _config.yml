@@ -91,7 +91,27 @@ content:
            <img style="border-radius:5px" src="images/pjex.png" width=520px height=240px ><br>
            <hr>  
            </div>
+      - layout: top-middle
+        title: APRENDIZADO DE MÁQUINA PARA SUPORTE À DECISÃO <br> DE DIAGNÓSTICO DE DIABETES
+        link: https://github.com/andersonsimplicio/TCC_DATASCIENCE
+        link_text: Pós-graduação Lato Sensu em Ciência de Dados e Big Data
+        additional_links:
+          - title: Tecnologias
+            icon: fab fa-python
+          - title: Tecnologias
+            icon: fab fa-linux
 
+        quote: >
+          O trabalho visa à análise e comparação entre 3 (três) modelos de machine learning relacionados à detecção de diabetes, no intuito de buscar uma ferramenta
+          que possa auxiliar os profissionais de saúde na tomada de decisão sobre o diagnóstico de diabetes.
+        description: | 
+          A Classificação é uma das categorias de problemas de Machine Learning mais importantes e mais populares e o objetivo do algoritmo é aprender uma regra
+          geral que mapeie as entradas nas saídas corretamente, este estudo visa exatamente buscar e comparar os três dos mais conhecidos modelos de classificação de machine learning,
+          Naive Bayes, Arvores de Decisão e Máquinas de Vetores de Suporte, e estabelecer qual dentre eles obteve o melhor desempenho como ferramenta de diagnóstico.<br>
+          <div style="text-align: center;">
+           <img style="border-radius:5px" src="images/tcc.png" width=520px height=240px ><br>
+           <hr> 
+          </div>
       - layout: top-middle
         title: Híbrida
         link: http://hibrida.pjexperience.com.br/
@@ -112,6 +132,7 @@ content:
           <div style="text-align: center;">
           <img style="border-radius:5px" src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" width=320px height=240px ><br><hr>
           </div>
+      
       - layout: top-middle
         title: MapaJud 
         link: https://github.com/andersonsimplicio/geocrimeambiental
