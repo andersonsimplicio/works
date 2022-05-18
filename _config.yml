@@ -249,7 +249,94 @@ content:
           a estudar e experimentar os conceitos, vivenciando a aplicação de técnicas para desenvolvimento de projetos relacionados 
           a Ciência de Dados e Big Data com o intuito de gerar valor para os negócios. 
  
-  
+  - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-graduation-cap"></i>Certificados</span>
+    layout: list
+    content:
+      - layout: top-right
+        title: Alura - Cursos de Tecnologia
+        sub_title: Django / Django REST framework
+        link: https://www.alura.com.br/
+        caption: Razão Social:AOVS Sistemas de Informática S.A CNPJ:05.555.382/0001-33
+        quote: >
+           Django é um framework web Python de alto nível que encoraja o desenvolvimento rápido e design limpo e pragmático.
+           Construído por desenvolvedores experientes, ele cuida de grande parte do incômodo do desenvolvimento da Web, para
+           que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto.
+        description:
+                  <section class="slider">
+                    <input name='slide' id="slide1" type="radio" checked>
+                    <input name='slide' id="slide2" type="radio" >
+                    <input name='slide' id="slide3" type="radio">
+                    
+                    
+                    <label for="slide1"></label>
+                    <label for="slide2"></label>
+                    <label for="slide3"></label>
+
+
+                     <div class="slider-content">
+                        <div class="slider-item">
+                            <div style="display:flex;">
+                              <div class="item">
+                                    <img src="images/certificados/django/django00.png">
+                                    <ul>
+                                      <li>concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                      <li>Finalizado em 15 de dezembro de 2020</li>
+                                    </ul>                
+                                </div>
+                                <div class="item">
+                                  <img src="images/certificados/django/django05.png">
+                                  <ul>
+                                    <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                    <li>Finalizado em 13 de novembro de 2021</li>
+                                  </ul>                
+                                </div> 
+                                <div class="item">
+                                    <img src="images/certificados/django/django01.png">
+                                    <ul>
+                                      <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                      <li>Finalizado em 15 de fevereiro de 2022</li>
+                                    </ul>                
+                                </div>  
+                              </div>  
+                        </div>
+                        <div class="slider-item">                       
+                            <div style="display:flex;">
+                                  <div class="item">
+                                        <img src="images/certificados/django/django02.png">
+                                        <ul>
+                                          <li>Concluiu o curso online com carga horária estimada em 6 horas</li>
+                                          <li>Finalizado em 18 de fevereiro de 2022</li>
+                                        </ul>                
+                                  </div>
+                                  <div class="item">
+                                    <img src="images/certificados/django/django04.png">
+                                    <ul >
+                                      <li>Concluiu o curso online com carga horária estimada em 6 horas.</li>
+                                      <li>Finalizado em 18 de fevereiro de 2022</li>
+                                    </ul>             
+                                  </div> 
+                                  <div class="item">
+                                      <img style="border-radius:5px;padding-right:3px;" src="images/certificados/django/django03.png" width=360px height=250px alt="teste" >
+                                      <ul >
+                                        <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                        <li>Finalizado em 16 de fevereiro de 2022</li>
+                                      </ul>                
+                                  </div> 
+                            </div>
+                        </div>
+                        <div class="slider-item">                    
+                             <div style="display:flex;">
+                              <div class="item">
+                                      <img style="border-radius:5px;padding-right:3px;" src="images/certificados/django/django06.png" width=360px height=250px alt="teste" >
+                                      <ul >
+                                        <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                        <li>Finalizado em 10 de dezembro de 2020</li>
+                                      </ul>                
+                                  </div>
+                             </div>
+                        </div>
+                    </div>
+                  </section>
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fab fa-old-republic"></i> Mais sobre Min</span>
     layout: text
     content: | # this will include new lines to allow paragraphs
