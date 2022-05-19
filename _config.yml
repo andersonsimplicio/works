@@ -254,9 +254,11 @@ content:
     content:
       - layout: top-right
         title: Alura - Cursos de Tecnologia
-        sub_title: Django / Django REST framework
         link: https://www.alura.com.br/
         caption: Razão Social:AOVS Sistemas de Informática S.A CNPJ:05.555.382/0001-33
+      - layout: top-middle
+        title: ""
+        sub_title: Django / Django REST framework
         quote: >
            Django é um framework web Python de alto nível que encoraja o desenvolvimento rápido e design limpo e pragmático.
            Construído por desenvolvedores experientes, ele cuida de grande parte do incômodo do desenvolvimento da Web, para
@@ -267,13 +269,10 @@ content:
                     <input name='slide' id="slide2" type="radio" >
                     <input name='slide' id="slide3" type="radio">
                     
-                    
                     <label for="slide1"></label>
                     <label for="slide2"></label>
                     <label for="slide3"></label>
-
-
-                     <div class="slider-content">
+                    <div class="slider-content">
                         <div class="slider-item">
                             <div style="display:flex;">
                               <div class="item">
@@ -337,6 +336,115 @@ content:
                         </div>
                     </div>
                   </section>
+      - layout: top-middle
+        title: ""
+        sub_title: React / React-Native com Expo
+        quote: >
+            O React é a biblioteca mais popular do JavaScript e é usada para construir uma 
+            interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar 
+            comandos usando um novo método de renderizar sites.
+        description:  
+            <section class="slider">
+                  <input name='slide' id="slide4" type="radio" checked>
+                  <input name='slide' id="slide5" type="radio" >
+                 
+                  
+                  <label for="slide4"></label>
+                  <label for="slide5"></label>
+                  
+                  <div class="slider-content">
+                      <div class="slider-item">                       
+                            <div style="display:flex;">
+                                <div class="item">
+                                    <img src="images/certificados/react/react2021-12-11.png">
+                                    <ul>
+                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
+                                      <li>Finalizado em 11 de dezembro de 2021</li>
+                                    </ul>                
+                                </div>
+                                <div class="item">
+                                    <img src="images/certificados/react/react2021-12-09.png">
+                                    <ul>
+                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
+                                      <li>Finalizado em 09 de dezembro de 2021</li>
+                                    </ul>          
+                                </div> 
+                                   <div class="item">
+                                       <div class="item">
+                                          <img src="images/certificados/react/react2021-11-20.png">
+                                          <ul>
+                                            <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
+                                            <li>Finalizado em 20 de novembro de 2021</li>
+                                          </ul>       
+                                        </div> 
+                                  </div>
+                                </div>
+                        </div>
+                        <div class="slider-item">
+                            <div style="display:flex;">
+                                <div class="item">
+                                    <img src="images/certificados/react/react2021-11-17.png">
+                                    <ul>
+                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
+                                      <li>Finalizado em 09 de dezembro de 2021</li>
+                                    </ul>          
+                                </div>             
+                              </div>  
+                        </div>
+                        <div class="slider-item">                       
+                            <div style="display:flex;">
+                                  <div class="item">
+                                  </div>
+                                  <div class="item">                                                
+                                  </div> 
+                                  <div class="item">                                                    
+                                  </div> 
+                            </div>
+                        </div>
+                    </div>
+            </section>
+      - layout: top-middle
+        title: ""
+        sub_title: Ciência de Dados / Machine Learning
+        quote: >
+            A ciência de dados combina vários campos, incluindo estatísticas, métodos científicos,
+            inteligência artificial (IA) e análise de dados para extrair valor dos dados. Aqueles 
+            que praticam a ciência de dados são chamados de cientistas de dados e combinam uma variedade
+            de habilidades para analisar dados coletados da web, smartphones, clientes, sensores e outras
+            fontes para obter insights acionáveis.
+            A ciência de dados abrange a preparação de dados para análise, incluindo limpeza, agregação e manipulação de dados para realizar análises de dados avançadas. Os aplicativos analíticos e os cientistas de dados podem então revisar os resultados para descobrir padrões e permitir que os líderes de negócios obtenham insights informados.
+        description: 
+            <section class="slider">                 
+                  <div class="slider-content">
+                       <div class="slider-item">
+                            <div class="slider-item">                       
+                                <div style="display:flex;">
+                                      <div class="item">
+                                          <img src="images/certificados/cds/cds2021-11-17.png">
+                                          <ul>
+                                            <li>Concluiu o curso online com carga horária estimada em 06 horas.</li>
+                                            <li>Finalizado em 17 de novembro de 2021</li>
+                                          </ul> 
+                                      </div>
+                                      <div class="item">  
+                                        <img src="images/certificados/cds/cds2021-11-13.png">
+                                          <ul>
+                                            <li>Concluiu o curso online com carga horária estimada em 10 horas.</li>
+                                            <li>Finalizado em 13 de novembro de 2021</li>
+                                          </ul>                                              
+                                      </div> 
+                                      <div class="item">   
+                                          <img src="images/certificados/cds/cds2020-10-10.png">
+                                          <ul>
+                                            <li>Concluiu o curso online com carga horária estimada em 10 horas.</li>
+                                            <li>Finalizado em 10 de outubro de 2020</li>
+                                          </ul>                                                 
+                                      </div> 
+                                  </div>
+                            </div>
+                       </div>
+                  </div>
+            </section>
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fab fa-old-republic"></i> Mais sobre Min</span>
     layout: text
     content: | # this will include new lines to allow paragraphs
