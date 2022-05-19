@@ -207,7 +207,7 @@ content:
           de Engenharias Elétrica e Civil.
 
 
-  - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-graduation-cap"></i>Formação</span>
+  - title: <span style="font-size:1.2em;color:#34495E"> <i class="fa-solid fa-book-journal-whills"></i> Formação Acadêmica </span> 
     layout: list
     content:
       - layout: top-right
@@ -249,7 +249,7 @@ content:
           a estudar e experimentar os conceitos, vivenciando a aplicação de técnicas para desenvolvimento de projetos relacionados 
           a Ciência de Dados e Big Data com o intuito de gerar valor para os negócios. 
  
-  - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-graduation-cap"></i>Certificados</span>
+  - title: <span style="font-size:1.2em;color:#34495E"> <i class="fa-solid fa-award"></i> Certificados extracurriculares</span>
     layout: list
     content:
       - layout: top-right
@@ -258,6 +258,7 @@ content:
         caption: Razão Social:AOVS Sistemas de Informática S.A CNPJ:05.555.382/0001-33
       - layout: top-middle
         title: ""
+        link: https://www.django-rest-framework.org/
         sub_title: Django / Django REST framework
         quote: >
            Django é um framework web Python de alto nível que encoraja o desenvolvimento rápido e design limpo e pragmático.
@@ -339,6 +340,7 @@ content:
       - layout: top-middle
         title: ""
         sub_title: React / React-Native com Expo
+        link: https://pt-br.reactjs.org/
         quote: >
             O React é a biblioteca mais popular do JavaScript e é usada para construir uma 
             interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar 
@@ -412,7 +414,7 @@ content:
             que praticam a ciência de dados são chamados de cientistas de dados e combinam uma variedade
             de habilidades para analisar dados coletados da web, smartphones, clientes, sensores e outras
             fontes para obter insights acionáveis.
-            A ciência de dados abrange a preparação de dados para análise, incluindo limpeza, agregação e manipulação de dados para realizar análises de dados avançadas. Os aplicativos analíticos e os cientistas de dados podem então revisar os resultados para descobrir padrões e permitir que os líderes de negócios obtenham insights informados.
+           
         description: 
             <section class="slider">                 
                   <div class="slider-content">
