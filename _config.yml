@@ -87,7 +87,7 @@ content:
           tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
            <br>
            <div style="text-align: center;">
-           <img style="border-radius:5px" src="images/pjex.png" width=520px height=240px ><br>
+           <img style="border-radius:5px" src="images/pjex.png" width=480px height=240px ><br>
            <hr>  
            </div>
       - layout: top-middle
@@ -108,7 +108,7 @@ content:
           geral que mapeie as entradas nas saídas corretamente, este estudo visa exatamente buscar e comparar os três dos mais conhecidos modelos de classificação de machine learning,
           Naive Bayes, Arvores de Decisão e Máquinas de Vetores de Suporte, e estabelecer qual dentre eles obteve o melhor desempenho como ferramenta de diagnóstico.<br>
           <div style="text-align: center;">
-           <img style="border-radius:5px" src="images/tcc.png" width=520px height=240px ><br>
+           <img style="border-radius:5px" src="images/tcc.png" width=480px height=240px ><br>
            <hr> 
           </div>
       - layout: top-middle
@@ -129,7 +129,7 @@ content:
           código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
           O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.<br>
           <div style="text-align: center;">
-          <img style="border-radius:5px" src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" width=320px height=240px ><br><hr>
+          <img style="border-radius:5px" src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" width=480px height=260px ><br><hr>
           </div>
       
       - layout: top-middle
@@ -150,7 +150,7 @@ content:
          Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
           <br>
           <div style="text-align: center;">
-          <img style="border-radius:5px" src="images/mapajud.png" width=520px height=240px ><br>
+          <img style="border-radius:5px" src="images/mapajud.png" width=480px height=240px ><br>
           <hr>  
           </div>
       - layout: top-middle
@@ -167,7 +167,7 @@ content:
         description: | 
           Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo <br>
           <div style="text-align: center;">
-          <img style="border-radius:5px" src="https://github.com/andersonsimplicio/pestshop/raw/main/assets/TelaExemplo.png?raw=true" width=520px height=340px ><br>
+          <img style="border-radius:5px" src="https://github.com/andersonsimplicio/pestshop/raw/main/assets/TelaExemplo.png?raw=true" width=480px height=260px ><br>
           </div>
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-business-time"></i>Experiência</span>
     layout: list
