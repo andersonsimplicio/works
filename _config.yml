@@ -66,93 +66,164 @@ about_content: |
         
     
 content:
-  - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-project-diagram"></i>Projetos</span>  # Title for the section
+  - title: <span style="font-size:1.2em;color:#34495E"><i class="fa-solid fa-laptop-code"></i>Projetos Web </span>  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: PJExperience
-        link: https://www.pjexperience.com.br/
-        link_text: pjexperience
-        additional_links:
-          - title: Tecnologias
-            icon: fab fa-python
-          - title: Tecnologias
-            icon: fab fa-linux
-            
-        quote: >
-          Sistema de Simulação de processo Judicial Eletrônico 
-        description: | 
-          O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos judiciais,
-          sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar todos os passos da 
-          tramitação de processos judiciais, inclusive assumindo Papeis como: Magistrado, Advogado, MP.
-           <br>
-           <div style="text-align: center;">
-           <img style="border-radius:5px" src="images/pjex.png" width=480px height=240px ><br>
-           <hr>  
-           </div>
+        description:
+          <section class="slider">
+                      <input name='slide' id="w-01" type="radio" checked>
+                      <input name='slide' id="w-02" type="radio" >
+                      <label for="w-01"></label>
+                      <label for="w-02"></label>
+                      <div class="slider-content">
+                          <div class="slider-item">
+                              <div style="display:flex;">
+                                <div class="item">
+                                    <div class="row clearfix layout layout-top-middle">
+                                      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                          <h4>PJExperience</h4>
+                                          <a href="https://www.pjexperience.com.br/" target="_blank" class="link">pjexperience</a>
+                                          <p class="no-print aditional-links">                 
+                                              <a href="//" target="_blank" class=""><i class="fab fa-python" title="Tecnologias"></i></a>         
+                                              <a href="//" target="_blank" class="">
+                                              <i class="fab fa-linux" title="Tecnologias"></i></a>
+                                          </p>
+                                      </div>
+                                      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                        <p class="quote">Sistema de Simulação de processo Judicial Eletrônico</p>
+                                        <p>O Pjexperience foi inspirado no pje, Processo Judicial Eletrônico, é um sistema de tramitação de processos 
+                                        judiciais, sua finalidade é de criar um ambiente virtual simulado que permite estudantes em direito realizar 
+                                        todos os passos da tramitação de processos judiciais, inclusive assumindo Papeis como:Magistrado, Advogado, MP.
+                                            <br>
+                                        </p>
+                                        <div  style="text-align:center;">
+                                              <img src="images/pjex.png" class="quadro" ><br>
+                                        </div>
+                                        </div>
+                                      </div>
+                                </div>
+                                  <div class="item">             
+                                  </div> 
+                                </div>  
+                          </div>
+                          <div class="slider-item">                       
+                              <div style="display:flex;">
+                                    <div class="item">
+                                      <div class="row clearfix layout layout-top-middle">
+                                      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                          <h4>MapaJud</h4>
+                                          <a href="https://github.com/andersonsimplicio/geocrimeambiental" target="_blank" class="link">MapaJud</a>
+                                          <p class="no-print aditional-links">                 
+                                              <a href="//" target="_blank" class=""><i class="fab fa-python" title="Tecnologias"></i></a>         
+                                              <a href="//" target="_blank" class="">
+                                              <i class="fab fa-linux" title="Tecnologias"></i></a>
+                                          </p>
+                                      </div>
+                                      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                        <p class="quote">
+                                            LIODS CNJ - Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável</p>
+                                        <p>
+                                          MapaJud indexa o número único do processo de terras públicas ao código do SireneJud exibindo inclusive outras
+                                          bases de dados de georreferenciamento como INCRA, Sistema de Gestão Fundiária (SIGEF), Cadastro Ambiental Rural (CAR),
+                                          Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
+                                        </p>
+                                        <div style="text-align:center;">
+                                              <img src="images/mapajud.png" class="quadro" ><br>
+                                        </div>
+                                      </div>
+                                          </div>
+                                      </div>              
+                                    </div>
+                                    <div class="item">
+                                                  
+                                    </div> 
+                                    <div class="item">
+                                                        
+                                    </div> 
+                            </div>
+                          </div>
+          </section>
+        
+  - title: <span style="font-size:1.2em;color:#34495E"> Projetos DataScience/Machine Learning</span>  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top-middle
-        title: APRENDIZADO DE MÁQUINA PARA SUPORTE À DECISÃO <br> DE DIAGNÓSTICO DE DIABETES
-        link: https://github.com/andersonsimplicio/TCC_DATASCIENCE
-        link_text: Pós-graduação Lato Sensu em Ciência de Dados e Big Data
-        additional_links:
-          - title: Tecnologias
-            icon: fab fa-python
-          - title: Tecnologias
-            icon: fab fa-linux
-
-        quote: >
-          O trabalho visa à análise e comparação entre 3 (três) modelos de machine learning relacionados à detecção de diabetes, no intuito de buscar uma ferramenta
-          que possa auxiliar os profissionais de saúde na tomada de decisão sobre o diagnóstico de diabetes.
-        description: | 
-          A Classificação é uma das categorias de problemas de Machine Learning mais importantes e mais populares e o objetivo do algoritmo é aprender uma regra
-          geral que mapeie as entradas nas saídas corretamente, este estudo visa exatamente buscar e comparar os três dos mais conhecidos modelos de classificação de machine learning,
-          Naive Bayes, Arvores de Decisão e Máquinas de Vetores de Suporte, e estabelecer qual dentre eles obteve o melhor desempenho como ferramenta de diagnóstico.<br>
-          <div style="text-align: center;">
-           <img style="border-radius:5px" src="images/tcc.png" width=480px height=240px ><br>
-           <hr> 
-          </div>
-      - layout: top-middle
-        title: Híbrida
-        link: http://hibrida.pjexperience.com.br/
-        link_text: Híbrida
-        additional_links:
-          - title: Tecnologias
-            icon: fab fa-python
-          - title: Tecnologias
-            icon: fab fa-linux
-
-        quote: >
-          É um projeto que tem por objetivo assegurar a redução no lapso temporal da tramitação dos processos 
-        description: | 
-          concretizando os princípios da eficiência e eficácia administrativa, celeridade processual e acesso à justiça.
-          Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
-          código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
-          O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.<br>
-          <div style="text-align: center;">
-          <img style="border-radius:5px" src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" width=480px height=260px ><br><hr>
-          </div>
-      
-      - layout: top-middle
-        title: MapaJud 
-        link: https://github.com/andersonsimplicio/geocrimeambiental
-        link_text: MapaJud  
-        additional_links:
-          - title: Tecnologias
-            icon: fab fa-python
-          - title: Tecnologias
-            icon: fab fa-linux
-                  
-        quote: >     
-          LIODS CNJ - Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável
-        description: |       
-         MapaJud indexa o número único do processo de terras públicas ao código do SireneJud exibindo inclusive outras
-         bases de dados de georreferenciamento como INCRA, Sistema de Gestão Fundiária (SIGEF), Cadastro Ambiental Rural (CAR),
-         Serviço Florestal Brasileiro (SFB), e se aprenta como demonstrado da figura.
-          <br>
-          <div style="text-align: center;">
-          <img style="border-radius:5px" src="images/mapajud.png" width=480px height=240px ><br>
-          <hr>  
-          </div>
+        description: 
+          <section class="slider">
+              <input name='slide' id="ds-01" type="radio" checked>
+              <input name='slide' id="ds-02" type="radio" >
+              <label for="ds-01"></label>
+              <label for="ds-02"></label>
+              <div class="slider-content">
+                <div class="slider-item">
+                    <div style="display:flex;">
+                      <div class="item">
+                          <div class="row clearfix layout layout-top-middle">
+                              <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                  <h4>APRENDIZADO DE MÁQUINA PARA SUPORTE À DECISÃO <br> DE DIAGNÓSTICO DE DIABETES</h4>
+                                  <a href="https://github.com/andersonsimplicio/TCC_DATASCIENCE" target="_blank" class="link">Pós-graduação Lato Sensu em Ciência de Dados e Big Data</a>
+                                  <p class="no-print aditional-links">                 
+                                      <a href="//" target="_blank" class=""><i class="fab fa-python" title="Tecnologias"></i></a>         
+                                      <a href="//" target="_blank" class="">
+                                      <i class="fab fa-linux" title="Tecnologias"></i></a>
+                                  </p>
+                              </div>
+                              <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                    <p class="quote">
+                                      O trabalho visa à análise e comparação entre 3 (três) modelos de machine learning relacionados à detecção de diabetes, no intuito de buscar uma ferramenta
+                                      que possa auxiliar os profissionais de saúde na tomada de decisão sobre o diagnóstico de diabetes.
+                                    </p>
+                                    <p>
+                                      A Classificação é uma das categorias de problemas de Machine Learning mais importantes e mais populares e o objetivo do algoritmo é aprender uma regra
+                                        geral que mapeie as entradas nas saídas corretamente, este estudo visa exatamente buscar e comparar os três dos mais conhecidos modelos de classificação de machine learning,
+                                        Naive Bayes, Arvores de Decisão e Máquinas de Vetores de Suporte, e estabelecer qual dentre eles obteve o melhor desempenho como ferramenta de diagnóstico.
+                                    </p>
+                                    <div style="text-align:center;">
+                                          <img src="images/tcc.png" class="quadro" ><br>
+                                    </div>
+                              </div>
+                          </div>
+                      </div>
+                    </div>  
+                </div>
+                <div class="slider-item">                       
+                    <div style="display:flex;">
+                          <div class="item">
+                            <div class="row clearfix layout layout-top-middle">
+                                <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                    <h4>Híbrida</h4>
+                                    <a href="http://hibrida.pjexperience.com.br/" target="_blank" class="link">Híbrida</a>
+                                    <p class="no-print aditional-links">                 
+                                        <a href="//" target="_blank" class=""><i class="fab fa-python" title="Tecnologias"></i></a>         
+                                        <a href="//" target="_blank" class="">
+                                        <i class="fab fa-linux" title="Tecnologias"></i></a>
+                                    </p>
+                                </div>
+                                <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                  <p class="quote">
+                                    É um projeto que tem por objetivo assegurar a redução no lapso temporal da tramitação dos processos
+                                  </p>
+                                  <p>
+                                    concretizando os princípios da eficiência e eficácia administrativa, celeridade processual e acesso à justiça.
+                                    Garante o incremento da agilidade, identificando o assunto de tema repetitivo 1007 do STJ, associando-o ao respectivo 
+                                    código de assunto do Conselho Nacional de Justiça – CNJ e dos tribunais locais quando disponibilizados ao público.
+                                    O presente projeto visa atender as demandas propostas pelo desafio 1 TEMPO E PRODUTIVIDADE do edital CNJ INOVA fase 1.
+                                  </p>
+                                  <div style="text-align:center;">
+                                        <img src="https://user-images.githubusercontent.com/37173966/96740018-cec57000-1396-11eb-8f6d-cb90afb63760.jpeg" class="quadro" ><br>
+                                  </div>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+          </section>
+  
+  - title: <span style="font-size:1.2em;color:#34495E">Projetos Mobile </span>  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:  
       - layout: top-middle
         title: PetShop app
         link: https://github.com/andersonsimplicio/pestshop
@@ -167,8 +238,9 @@ content:
         description: | 
           Este de projeto de App para petshop foi utilizado no processo de aprendizagem do react-native e expo <br>
           <div style="text-align: center;">
-          <img style="border-radius:5px" src="https://github.com/andersonsimplicio/pestshop/raw/main/assets/TelaExemplo.png?raw=true" width=480px height=260px ><br>
+          <img class="quadro" src="https://github.com/andersonsimplicio/pestshop/raw/main/assets/TelaExemplo.png?raw=true" ><br>
           </div>
+  
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fas fa-business-time"></i>Experiência</span>
     layout: list
     content:
@@ -205,7 +277,6 @@ content:
           Na universidade de Uberaba, ministrava aulas de práticas laboratoriais de lógica de programação,
           linguagem técnica de programação, métodos, ferramentas computacionais e tecnologicas, para os cursos
           de Engenharias Elétrica e Civil.
-
 
   - title: <span style="font-size:1.2em;color:#34495E"> <i class="fa-solid fa-book-journal-whills"></i> Formação Acadêmica </span> 
     layout: list
@@ -268,8 +339,7 @@ content:
                   <section class="slider">
                     <input name='slide' id="slide1" type="radio" checked>
                     <input name='slide' id="slide2" type="radio" >
-                    <input name='slide' id="slide3" type="radio">
-                    
+                    <input name='slide' id="slide3" type="radio">    
                     <label for="slide1"></label>
                     <label for="slide2"></label>
                     <label for="slide3"></label>
@@ -348,9 +418,7 @@ content:
         description:  
             <section class="slider">
                   <input name='slide' id="slide4" type="radio" checked>
-                  <input name='slide' id="slide5" type="radio" >
-                 
-                  
+                  <input name='slide' id="slide5" type="radio">                 
                   <label for="slide4"></label>
                   <label for="slide5"></label>
                   
@@ -447,6 +515,7 @@ content:
                        </div>
                   </div>
             </section>
+  
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fab fa-old-republic"></i> Mais sobre Min</span>
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -495,7 +564,8 @@ content:
         Av. dos Andradas, 415 - CEP 36036-000 - Centro - Juiz de Fora – MG viannajr@viannajr.edu.br
         <hr>
       <img aling="center" height="150em" width="100%" src="https://raw.githubusercontent.com/andersonsimplicio/works/output/github-contribution-grid-snake.svg" >
-
+  
+  
 # Footer
 footer_show_references: true
 references_title: <i class="fas fa-jedi" style="color:#287eb7;"></i>
@@ -523,4 +593,5 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
+  "modeloProjetos.html"
   ]
