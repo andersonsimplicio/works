@@ -335,77 +335,74 @@ content:
            Construído por desenvolvedores experientes, ele cuida de grande parte do incômodo do desenvolvimento da Web, para
            que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto.
         description:
-                  <section class="slider">
-                    <input name='slide' id="slide1" type="radio" checked>
-                    <input name='slide' id="slide2" type="radio" >
-                    <input name='slide' id="slide3" type="radio">    
-                    <label for="slide1"></label>
-                    <label for="slide2"></label>
-                    <label for="slide3"></label>
-                    <div class="slider-content">
-                        <div class="slider-item">
-                            <div style="display:flex;">
-                              <div class="item">
-                                    <img src="images/certificados/django/django00.jpeg">
-                                    <ul>
-                                      <li>concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                      <li>Finalizado em 15 de dezembro de 2020</li>
-                                    </ul>                
+                  <div id="slider">
+                      <input type="radio" name="slider" id="slide1" checked>
+                      <input type="radio" name="slider" id="slide2">
+                      <input type="radio" name="slider" id="slide3">
+                      <input type="radio" name="slider" id="slide4">
+                      <input type="radio" name="slider" id="slide5">
+                      <input type="radio" name="slider" id="slide6">
+                      <input type="radio" name="slider" id="slide7">
+                      <div id="slides">
+                          <div id="overflow">
+                            <div class="inner">
+                                <div class="slide slide_1">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django00.jpeg">
+                                  </div>
                                 </div>
-                                <div class="item">
-                                  <img src="images/certificados/django/django05.jpeg">
-                                  <ul>
-                                    <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                    <li>Finalizado em 13 de novembro de 2021</li>
-                                  </ul>                
-                                </div> 
-                                <div class="item">
-                                    <img src="images/certificados/django/django01.jpeg">
-                                    <ul>
-                                      <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                      <li>Finalizado em 15 de fevereiro de 2022</li>
-                                    </ul>                
-                                </div>  
-                              </div>  
-                        </div>
-                        <div class="slider-item">                       
-                            <div style="display:flex;">
-                                  <div class="item">
-                                        <img src="images/certificados/django/django02.jpeg">
-                                        <ul>
-                                          <li>Concluiu o curso online com carga horária estimada em 6 horas</li>
-                                          <li>Finalizado em 18 de fevereiro de 2022</li>
-                                        </ul>                
+                                <div class="slide slide_2">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django01.jpeg">
                                   </div>
-                                  <div class="item">
-                                    <img src="images/certificados/django/django04.jpeg">
-                                    <ul >
-                                      <li>Concluiu o curso online com carga horária estimada em 6 horas.</li>
-                                      <li>Finalizado em 18 de fevereiro de 2022</li>
-                                    </ul>             
-                                  </div> 
-                                  <div class="item">
-                                      <img style="border-radius:5px;padding-right:3px;" src="images/certificados/django/django03.jpeg" width=360px height=250px alt="teste" >
-                                      <ul >
-                                        <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                        <li>Finalizado em 16 de fevereiro de 2022</li>
-                                      </ul>                
-                                  </div> 
+                                </div>
+                                <div class="slide slide_3">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django02.jpeg">
+                                  </div>
+                                </div>
+                                <div class="slide slide_4">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django04.jpeg">
+                                  </div>
+                                </div>
+                                <div class="slide slide_5">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django04.jpeg">
+                                  </div>
+                                </div>
+                                <div class="slide slide_6">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django03.jpeg">
+                                  </div>
+                                </div>
+                                <div class="slide slide_7">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django06.jpeg">
+                                  </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="slider-item">                    
-                             <div style="display:flex;">
-                              <div class="item">
-                                      <img style="border-radius:5px;padding-right:3px;" src="images/certificados/django/django06.jpeg" width=360px height=250px alt="teste" >
-                                      <ul >
-                                        <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                        <li>Finalizado em 10 de dezembro de 2020</li>
-                                      </ul>                
-                                  </div>
-                             </div>
-                        </div>
+                          </div>
+                      </div>
+                      <div id="controls">
+                          <label for="slide1"></label>
+                          <label for="slide2"></label>
+                          <label for="slide3"></label>
+                          <label for="slide4"></label>
+                          <label for="slide5"></label>
+                          <label for="slide6"></label>
+                          <label for="slide7"></label>
+                      </div>
+                      <div id="bullets">
+                          <label for="slide1"></label>
+                          <label for="slide2"></label>
+                          <label for="slide3"></label>
+                          <label for="slide4"></label>
+                          <label for="slide5"></label>
+                          <label for="slide6"></label>
+                          <label for="slide7"></label>
+                      </div>
                     </div>
-                  </section>
       - layout: top-middle
         title: ""
         sub_title: React / React-Native com Expo
@@ -415,63 +412,51 @@ content:
             interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar 
             comandos usando um novo método de renderizar sites.
         description:  
-            <section class="slider">
-                  <input name='slide' id="slide4" type="radio" checked>
-                  <input name='slide' id="slide5" type="radio">                 
-                  <label for="slide4"></label>
-                  <label for="slide5"></label>
-                  
-                  <div class="slider-content">
-                      <div class="slider-item">                       
-                            <div style="display:flex;">
-                                <div class="item">
-                                    <img src="images/certificados/react/react2021-12-11.jpeg">
-                                    <ul>
-                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
-                                      <li>Finalizado em 11 de dezembro de 2021</li>
-                                    </ul>                
-                                </div>
-                                <div class="item">
-                                    <img src="images/certificados/react/react2021-12-09.jpeg">
-                                    <ul>
-                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
-                                      <li>Finalizado em 09 de dezembro de 2021</li>
-                                    </ul>          
-                                </div> 
-                                   <div class="item">
-                                       <div class="item">
-                                          <img src="images/certificados/react/react2021-11-20.jpeg">
-                                          <ul>
-                                            <li>Concluiu o curso online com carga horária estimada em 8 horas.</li>
-                                            <li>Finalizado em 20 de novembro de 2021</li>
-                                          </ul>       
-                                        </div> 
-                                  </div>
-                                </div>
+            <div id="slider-react">
+            <input type="radio" name="slider" id="slide1-react" checked>
+            <input type="radio" name="slider" id="slide2-react">
+            <input type="radio" name="slider" id="slide3-react">
+            <input type="radio" name="slider" id="slide4-react">
+            <div id="slides-react">
+                <div id="overflow-react">
+                  <div class="inner">
+                      <div class="slide slide_1">
+                        <div class="slide-content-react">
+                            <img src="images/certificados/react/react2021-12-11.jpeg">
                         </div>
-                        <div class="slider-item">
-                            <div style="display:flex;">
-                                <div class="item">
-                                    <img src="images/certificados/react/react2021-11-17.jpeg">
-                                    <ul>
-                                      <li>Concluiu o curso online com carga horária estimada em 12 horas.</li>
-                                      <li>Finalizado em 09 de dezembro de 2021</li>
-                                    </ul>          
-                                </div>             
-                              </div>  
+                      </div>
+                      <div class="slide slide_2">
+                        <div class="slide-content-react">
+                            <img src="images/certificados/react/react2021-12-09.jpeg">
                         </div>
-                        <div class="slider-item">                       
-                            <div style="display:flex;">
-                                  <div class="item">
-                                  </div>
-                                  <div class="item">                                                
-                                  </div> 
-                                  <div class="item">                                                    
-                                  </div> 
-                            </div>
+                      </div>
+                      <div class="slide slide_3">
+                        <div class="slide-content-react">
+                           <img src="images/certificados/react/react2021-11-20.jpeg">
                         </div>
-                    </div>
-            </section>
+                      </div>
+                      <div class="slide slide_4">
+                        <div class="slide-content-react">
+                            <img src="images/certificados/react/react2021-11-17.jpeg">
+                        </div>
+                      </div>
+                  </div>
+                </div>
+            </div>
+            <div id="controls">
+                <label for="slide1-react"></label>
+                <label for="slide2-react"></label>
+                <label for="slide3-react"></label>
+                <label for="slide4-react"></label>
+            </div>
+            <div id="bullets">
+                <label for="slide1-react"></label>
+                <label for="slide2-react"></label>
+                <label for="slide3-react"></label>
+                <label for="slide4-react"></label>
+            </div>
+          </div>
+
       - layout: top-middle
         title: ""
         sub_title: Ciência de Dados / Machine Learning
@@ -483,37 +468,42 @@ content:
             fontes para obter insights acionáveis.
            
         description: 
-            <section class="slider">                 
-                  <div class="slider-content">
-                       <div class="slider-item">
-                            <div class="slider-item">                       
-                                <div style="display:flex;">
-                                      <div class="item">
-                                          <img src="images/certificados/cds/cds2021-11-17.jpeg">
-                                          <ul>
-                                            <li>Concluiu o curso online com carga horária estimada em 06 horas.</li>
-                                            <li>Finalizado em 17 de novembro de 2021</li>
-                                          </ul> 
-                                      </div>
-                                      <div class="item">  
-                                        <img src="images/certificados/cds/cds2021-11-13.jpeg">
-                                          <ul>
-                                            <li>Concluiu o curso online com carga horária estimada em 10 horas.</li>
-                                            <li>Finalizado em 13 de novembro de 2021</li>
-                                          </ul>                                              
-                                      </div> 
-                                      <div class="item">   
-                                          <img src="images/certificados/cds/cds2020-10-10.jpeg">
-                                          <ul>
-                                            <li>Concluiu o curso online com carga horária estimada em 10 horas.</li>
-                                            <li>Finalizado em 10 de outubro de 2020</li>
-                                          </ul>                                                 
-                                      </div> 
-                                  </div>
-                            </div>
-                       </div>
+            <div id="slider-ds">
+            <input type="radio" name="slider" id="slide1-ds" checked>
+            <input type="radio" name="slider" id="slide2-ds">
+            <input type="radio" name="slider" id="slide3-ds">
+            <div id="slides-ds">
+                <div id="overflow-ds">
+                  <div class="inner">
+                      <div class="slide slide_1">
+                        <div class="slide-content">
+                            <img src="images/certificados/cds/cds2021-11-17.jpeg">
+                        </div>
+                      </div>
+                      <div class="slide slide_2">
+                        <div class="slide-content">
+                            <img src="images/certificados/cds/cds2021-11-13.jpeg">
+                        </div>
+                      </div>
+                      <div class="slide slide_3">
+                        <div class="slide-content">
+                           <img src="images/certificados/cds/cds2020-10-10.jpeg">
+                        </div>
+                      </div>
                   </div>
-            </section>
+                </div>
+            </div>
+            <div id="controls">
+                <label for="slide1-ds"></label>
+                <label for="slide2-ds"></label>
+                <label for="slide3-ds"></label>
+            </div>
+            <div id="bullets">
+                <label for="slide1-ds"></label>
+                <label for="slide2-ds"></label>
+                <label for="slide3-ds"></label>
+            </div>
+          </div>
   
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fab fa-old-republic"></i> Mais sobre Min</span>
     layout: text
