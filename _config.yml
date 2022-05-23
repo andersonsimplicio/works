@@ -336,7 +336,8 @@ content:
            que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto.
         description:
                   <div id="slider">
-                      <input type="radio" name="slider" id="slide1" checked>
+                      <input type="radio" name="slider" id="slide0" checked>
+                      <input type="radio" name="slider" id="slide1">
                       <input type="radio" name="slider" id="slide2">
                       <input type="radio" name="slider" id="slide3">
                       <input type="radio" name="slider" id="slide4">
@@ -346,6 +347,11 @@ content:
                       <div id="slides">
                           <div id="overflow">
                             <div class="inner">
+                                <div class="slide slide_0">
+                                  <div class="slide-content">
+                                      <img src="images/certificados/django/django2022-05-22.jpeg">
+                                  </div>
+                                </div>
                                 <div class="slide slide_1">
                                   <div class="slide-content">
                                       <img src="images/certificados/django/django00.jpeg">
@@ -385,6 +391,7 @@ content:
                           </div>
                       </div>
                       <div id="controls">
+                          <label for="slide0"></label>
                           <label for="slide1"></label>
                           <label for="slide2"></label>
                           <label for="slide3"></label>
@@ -394,6 +401,7 @@ content:
                           <label for="slide7"></label>
                       </div>
                       <div id="bullets">
+                          <label for="slide0"></label>
                           <label for="slide1"></label>
                           <label for="slide2"></label>
                           <label for="slide3"></label>
