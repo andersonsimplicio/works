@@ -328,191 +328,239 @@ content:
         caption: Razão Social:AOVS Sistemas de Informática S.A CNPJ:05.555.382/0001-33
       - layout: top-middle
         title: ""
-        link: https://www.django-rest-framework.org/
-        sub_title: Django / Django REST framework
-        quote: >
-           Django é um framework web Python de alto nível que encoraja o desenvolvimento rápido e design limpo e pragmático.
-           Construído por desenvolvedores experientes, ele cuida de grande parte do incômodo do desenvolvimento da Web, para
-           que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto.
         description:
-                  <div id="slider">
-                      <input type="radio" name="slider" id="slide0" checked>
-                      <input type="radio" name="slider" id="slide1">
-                      <input type="radio" name="slider" id="slide2">
-                      <input type="radio" name="slider" id="slide3">
-                      <input type="radio" name="slider" id="slide4">
-                      <input type="radio" name="slider" id="slide5">
-                      <input type="radio" name="slider" id="slide6">
-                      <input type="radio" name="slider" id="slide7">
-                      <div id="slides">
-                          <div id="overflow">
-                            <div class="inner">
-                                <div class="slide slide_0">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django2022-05-22.jpeg">
-                                  </div>
+                 <section class="slider">
+                    <input name='slide' id="aw-01" type="radio" checked>
+                    <input name='slide' id="aw-02" type="radio">
+                    <input name='slide' id="aw-03" type="radio">
+                    <label for="aw-01"></label>
+                    <label for="aw-02"></label>
+                    <label for="aw-03"></label>
+                    <div class="slider-content">
+                          <div class="slider-item">
+                            <div style="display:flex;">
+                              <div class="item">
+                                  <div class="row clearfix layout layout-top-middle">
+                                    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                      <h4></h4><p><b>Django / Django REST framework</b></p>
+                                      <a href="https://www.django-rest-framework.org/" target="_blank" class="link">https://www.django-rest-framework.org/</a><p class="no-print aditional-links">
+                                      </p>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                        <p class="quote">
+                                          Django é um framework web Python de alto nível que encoraja o 
+                                          desenvolvimento rápido e design limpo e pragmático. Construído
+                                          por desenvolvedores experientes, ele cuida de grande parte do incômodo
+                                          do desenvolvimento da Web, para que você possa se concentrar em escrever
+                                          seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto.
+                                        </p>  
+                                    </div>
+                                    <div id="slider">
+                                        <input type="radio" name="slider" id="slide0" checked>
+                                        <input type="radio" name="slider" id="slide1">
+                                        <input type="radio" name="slider" id="slide2">
+                                        <input type="radio" name="slider" id="slide3">
+                                        <input type="radio" name="slider" id="slide4">
+                                        <input type="radio" name="slider" id="slide5">
+                                        <input type="radio" name="slider" id="slide6">
+                                        <input type="radio" name="slider" id="slide7">
+                                        <div id="slides">
+                                            <div id="overflow">
+                                              <div class="inner">
+                                                  <div class="slide slide_0">
+                                                    <div class="slide-content">
+                                                        <img src="images/certificados/django/django2022-05-22.jpeg">
+                                                    </div>
+                                                  </div>
+                                                  <div class="slide slide_1">
+                                                    <div class="slide-content">
+                                                        <img src="images/certificados/django/django00.jpeg">
+                                                    </div>
+                                                  </div>
+                                                  <div class="slide slide_2">
+                                                    <div class="slide-content">
+                                                        <img src="images/certificados/django/django01.jpeg">
+                                                    </div>
+                                                  </div>
+                                                  <div class="slide slide_3">
+                                                    <div class="slide-content">
+                                                        <img src="images/certificados/django/django02.jpeg">
+                                                    </div>
+                                                  </div>
+                                                  <div class="slide slide_4">
+                                                    <div class="slide-content">
+                                                        <img src="images/certificados/django/django04.jpeg">
+                                                    </div>
+                                                  </div>
+                                              <div class="slide slide_5">
+                                                <div class="slide-content">
+                                                    <img src="images/certificados/django/django04.jpeg">
+                                                </div>
+                                              </div>
+                                              <div class="slide slide_6">
+                                                <div class="slide-content">
+                                                    <img src="images/certificados/django/django03.jpeg">
+                                                </div>
+                                              </div>
+                                              <div class="slide slide_7">
+                                                <div class="slide-content">
+                                                    <img src="images/certificados/django/django06.jpeg">
+                                                </div>
+                                              </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                    <div id="controls">
+                                        <label for="slide0"></label>
+                                        <label for="slide1"></label>
+                                        <label for="slide2"></label>
+                                        <label for="slide3"></label>
+                                        <label for="slide4"></label>
+                                        <label for="slide5"></label>
+                                        <label for="slide6"></label>
+                                        <label for="slide7"></label>
+                                    </div>
+                                    <div id="bullets">
+                                        <label for="slide0"></label>
+                                        <label for="slide1"></label>
+                                        <label for="slide2"></label>
+                                        <label for="slide3"></label>
+                                        <label for="slide4"></label>
+                                        <label for="slide5"></label>
+                                        <label for="slide6"></label>
+                                        <label for="slide7"></label>
+                                    </div>
+                                  </div>                                  
                                 </div>
-                                <div class="slide slide_1">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django00.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_2">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django01.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_3">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django02.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_4">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django04.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_5">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django04.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_6">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django03.jpeg">
-                                  </div>
-                                </div>
-                                <div class="slide slide_7">
-                                  <div class="slide-content">
-                                      <img src="images/certificados/django/django06.jpeg">
-                                  </div>
-                                </div>
+                              </div>
                             </div>
                           </div>
-                      </div>
-                      <div id="controls">
-                          <label for="slide0"></label>
-                          <label for="slide1"></label>
-                          <label for="slide2"></label>
-                          <label for="slide3"></label>
-                          <label for="slide4"></label>
-                          <label for="slide5"></label>
-                          <label for="slide6"></label>
-                          <label for="slide7"></label>
-                      </div>
-                      <div id="bullets">
-                          <label for="slide0"></label>
-                          <label for="slide1"></label>
-                          <label for="slide2"></label>
-                          <label for="slide3"></label>
-                          <label for="slide4"></label>
-                          <label for="slide5"></label>
-                          <label for="slide6"></label>
-                          <label for="slide7"></label>
-                      </div>
+                          <div class="slider-item">
+                              <div style="display:flex;">
+                                  <div class="item">
+                                      <div class="row clearfix layout layout-top-middle">
+                                          <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                            <p><b>React / React-Native com Expo</b></p>
+                                            <a href="https://pt-br.reactjs.org/" target="_blank" class="link">https://pt-br.reactjs.org/</a><p class="no-print aditional-links">
+                                            </p>
+                                          </div>
+                                          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                                <p class="quote">
+                                                O React é a biblioteca mais popular do JavaScript e
+                                                é usada para construir uma  interface de usuário (IU). Ela oferece 
+                                                uma resposta excelente para o usuário adicionar  comandos usando um 
+                                                novo método de renderizar sites.
+                                                </p>
+                                          </div>
+                                      </div>
+                                          <div id="slider-react">
+                                            <input type="radio" name="slider" id="slide1-react" checked>
+                                            <input type="radio" name="slider" id="slide2-react">
+                                            <input type="radio" name="slider" id="slide3-react">
+                                            <input type="radio" name="slider" id="slide4-react">
+                                            <div id="slides-react">
+                                                <div id="overflow-react">
+                                                  <div class="inner">
+                                                      <div class="slide slide_1">
+                                                        <div class="slide-content-react">
+                                                            <img src="images/certificados/react/react2021-12-11.jpeg">
+                                                        </div>
+                                                      </div>
+                                                      <div class="slide slide_2">
+                                                        <div class="slide-content-react">
+                                                            <img src="images/certificados/react/react2021-12-09.jpeg">
+                                                        </div>
+                                                      </div>
+                                                      <div class="slide slide_3">
+                                                        <div class="slide-content-react">
+                                                          <img src="images/certificados/react/react2021-11-20.jpeg">
+                                                        </div>
+                                                      </div>
+                                                      <div class="slide slide_4">
+                                                        <div class="slide-content-react">
+                                                            <img src="images/certificados/react/react2021-11-17.jpeg">
+                                                        </div>
+                                                      </div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                            <div id="controls">
+                                                <label for="slide1-react"></label>
+                                                <label for="slide2-react"></label>
+                                                <label for="slide3-react"></label>
+                                                <label for="slide4-react"></label>
+                                            </div>
+                                            <div id="bullets">
+                                                <label for="slide1-react"></label>
+                                                <label for="slide2-react"></label>
+                                                <label for="slide3-react"></label>
+                                                <label for="slide4-react"></label>
+                                            </div>
+                                          </div>
+                                  </div>
+                                </div>
+                          </div>
+                           <div class="slider-item">
+                              <div style="display:flex;">
+                                    <div class="item">
+                                            <div class="row clearfix layout layout-top-middle">
+                                                <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+                                                  <h4></h4><p><b>Ciência de Dados / Machine Learning</b></p>
+                                                  <p class="no-print aditional-links"></p>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+                                                    <p class="quote">
+                                                        A ciência de dados combina vários campos, incluindo estatísticas, métodos 
+                                                        científicos, inteligência artificial (IA) e análise de dados para extrair 
+                                                        valor dos dados. Aqueles  que praticam a ciência de dados são chamados de
+                                                        cientistas de dados e combinam uma variedade de habilidades para analisar 
+                                                        dados coletados da web, smartphones, clientes, sensores e outras fontes para 
+                                                        obter insights acionáveis.
+                                                    </p>
+                                                </div>
+                                          </div>
+                                          <div id="slider-ds">
+                                            <input type="radio" name="slider" id="slide1-ds" checked>
+                                            <input type="radio" name="slider" id="slide2-ds">
+                                            <input type="radio" name="slider" id="slide3-ds">
+                                            <div id="slides-ds">
+                                                <div id="overflow-ds">
+                                                  <div class="inner">
+                                                      <div class="slide slide_1">
+                                                        <div class="slide-content">
+                                                            <img src="images/certificados/cds/cds2021-11-17.jpeg">
+                                                        </div>
+                                                      </div>
+                                                      <div class="slide slide_2">
+                                                        <div class="slide-content">
+                                                            <img src="images/certificados/cds/cds2021-11-13.jpeg">
+                                                        </div>
+                                                      </div>
+                                                      <div class="slide slide_3">
+                                                        <div class="slide-content">
+                                                          <img src="images/certificados/cds/cds2020-10-10.jpeg">
+                                                        </div>
+                                                      </div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                            <div id="controls">
+                                                <label for="slide1-ds"></label>
+                                                <label for="slide2-ds"></label>
+                                                <label for="slide3-ds"></label>
+                                            </div>
+                                            <div id="bullets">
+                                                <label for="slide1-ds"></label>
+                                                <label for="slide2-ds"></label>
+                                                <label for="slide3-ds"></label>
+                                            </div>
+                                          </div>
+                                   </div>
+                            </div> 
+                        </div>
                     </div>
-      - layout: top-middle
-        title: ""
-        sub_title: React / React-Native com Expo
-        link: https://pt-br.reactjs.org/
-        quote: >
-            O React é a biblioteca mais popular do JavaScript e é usada para construir uma 
-            interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar 
-            comandos usando um novo método de renderizar sites.
-        description:  
-            <div id="slider-react">
-            <input type="radio" name="slider" id="slide1-react" checked>
-            <input type="radio" name="slider" id="slide2-react">
-            <input type="radio" name="slider" id="slide3-react">
-            <input type="radio" name="slider" id="slide4-react">
-            <div id="slides-react">
-                <div id="overflow-react">
-                  <div class="inner">
-                      <div class="slide slide_1">
-                        <div class="slide-content-react">
-                            <img src="images/certificados/react/react2021-12-11.jpeg">
-                        </div>
-                      </div>
-                      <div class="slide slide_2">
-                        <div class="slide-content-react">
-                            <img src="images/certificados/react/react2021-12-09.jpeg">
-                        </div>
-                      </div>
-                      <div class="slide slide_3">
-                        <div class="slide-content-react">
-                           <img src="images/certificados/react/react2021-11-20.jpeg">
-                        </div>
-                      </div>
-                      <div class="slide slide_4">
-                        <div class="slide-content-react">
-                            <img src="images/certificados/react/react2021-11-17.jpeg">
-                        </div>
-                      </div>
-                  </div>
-                </div>
-            </div>
-            <div id="controls">
-                <label for="slide1-react"></label>
-                <label for="slide2-react"></label>
-                <label for="slide3-react"></label>
-                <label for="slide4-react"></label>
-            </div>
-            <div id="bullets">
-                <label for="slide1-react"></label>
-                <label for="slide2-react"></label>
-                <label for="slide3-react"></label>
-                <label for="slide4-react"></label>
-            </div>
-          </div>
-
-      - layout: top-middle
-        title: ""
-        sub_title: Ciência de Dados / Machine Learning
-        quote: >
-            A ciência de dados combina vários campos, incluindo estatísticas, métodos científicos,
-            inteligência artificial (IA) e análise de dados para extrair valor dos dados. Aqueles 
-            que praticam a ciência de dados são chamados de cientistas de dados e combinam uma variedade
-            de habilidades para analisar dados coletados da web, smartphones, clientes, sensores e outras
-            fontes para obter insights acionáveis.
+                  </section>
            
-        description: 
-            <div id="slider-ds">
-            <input type="radio" name="slider" id="slide1-ds" checked>
-            <input type="radio" name="slider" id="slide2-ds">
-            <input type="radio" name="slider" id="slide3-ds">
-            <div id="slides-ds">
-                <div id="overflow-ds">
-                  <div class="inner">
-                      <div class="slide slide_1">
-                        <div class="slide-content">
-                            <img src="images/certificados/cds/cds2021-11-17.jpeg">
-                        </div>
-                      </div>
-                      <div class="slide slide_2">
-                        <div class="slide-content">
-                            <img src="images/certificados/cds/cds2021-11-13.jpeg">
-                        </div>
-                      </div>
-                      <div class="slide slide_3">
-                        <div class="slide-content">
-                           <img src="images/certificados/cds/cds2020-10-10.jpeg">
-                        </div>
-                      </div>
-                  </div>
-                </div>
-            </div>
-            <div id="controls">
-                <label for="slide1-ds"></label>
-                <label for="slide2-ds"></label>
-                <label for="slide3-ds"></label>
-            </div>
-            <div id="bullets">
-                <label for="slide1-ds"></label>
-                <label for="slide2-ds"></label>
-                <label for="slide3-ds"></label>
-            </div>
-          </div>
-  
   - title: <span style="font-size:1.2em;color:#34495E"><i class="fab fa-old-republic"></i> Mais sobre Min</span>
     layout: text
     content: | # this will include new lines to allow paragraphs
