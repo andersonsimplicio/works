@@ -337,6 +337,21 @@ content:
           O curso é direcionado para formar esse profissional. Através de disciplinas teóricas e práticas, os alunos são conduzidos 
           a estudar e experimentar os conceitos, vivenciando a aplicação de técnicas para desenvolvimento de projetos relacionados 
           a Ciência de Dados e Big Data com o intuito de gerar valor para os negócios. 
+      - layout: top-right
+        title: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
+        sub_title: <a href="https://sig.ifsudestemg.edu.br/sigaa/public/curso/portal.jsf?lc=pt&id=22469150">Desenvolvimento Web e Mobile </a>
+        caption: 2007 - 2010
+        quote: >
+            O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) é uma instituição pública e gratuita que
+            enfatiza ao máximo tudo aquilo que possa tornar a sociedade mais justa, qualificada e participativa.
+        description: | # this will include new lines to allow paragraphs
+           O Curso de Especialização em Desenvolvimento Web e Mobile objetiva atualizar e instrumentalizar o discente no 
+           que se refere a participar efetivamente de empreendimentos de software Web e Mobile voltados para o mercado de 
+           trabalho local e global, oferecendo base teórica para a atualização do egresso. Além disso, é de interesse do curso
+           preparar profissionais que possam construir sistemas de software Web e Mobile que sejam corretos, completos, seguros,
+           amigáveis, com qualidade, fáceis de manter e de baixo custo financeiro. Finalmente, é esperado que o estudante possa 
+           gerenciar projetos de desenvolvimento de sistemas computacionais focados em Web e Mobile, além de prestar consultoria 
+           na concepção, no desenvolvimento e no suporte de sistemas correlatos.
  
   - title: <span style="font-size:1.2em;color:#34495E"> <i class="fa-solid fa-award"></i> Certificados extracurriculares</span>
     layout: list
