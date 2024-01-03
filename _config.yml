@@ -244,21 +244,26 @@ content:
     layout: list
     content:
       - layout: right
-        title: Senac Minas 
-        sub_title: Orientador de Cursos
-        caption: Janeiro 2013 - Novembro 2020
-        link: https://www.mg.senac.br/
+        title: CENTRO TÉCNICO PROFISSIONAL UNIPAC
+        sub_title: Professor
+        caption: Agosto 2023 - Atualmente
+        link: https://www.unipac.br/
         quote: >
-          A Instituição é referência em educação profissional na área de comércio de bens, serviços e turismo.
-          O Senac oferece, nas modalidades presencial e a distância, cursos livres e técnicos, além de graduação e MBA . 
+          A história das Faculdades da Fundação Presidente Antônio Carlos/FUPAC e do Centro Universitário Presidente Antônio 
+          Carlos/UNIPAC, teve início em 1963, quando o deputado e professor Bonifácio Andrada apresentou um projeto de lei que, 
+          aprovado, deu origem à Fundação Universitária da Mantiqueira, em Barbacena, Minas Gerais. A Instituição, por lembrança do 
+          deputado Hilo Andrade, passaria a se chamar Fundação Presidente Antônio Carlos em 1965. Era o nascimento da FUPAC, 
+          que mais tarde se tornaria uma das maiores instituições universitárias do país. 
         description: | 
-          Cursos de atuação no <strong style="font-weight:bold;color:#34495E">Senac</strong>:
+          Cursos de atuação no <strong style="font-weight:bold;color:#34495E">CENTRO TÉCNICO PROFISSIONAL Unipac</strong>:
           
-          - Técnico em Redes de Computador com destaque para disciplina de Servidores Linux, na qual tinha paixão em lecionar
-            e quase sempre concluíamos o livro de Servidores Linux - Guia Prático (Carlos E. Morimoto).
-          
-          - Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
-            min com a disciplina base do curso.
+          O curso técnico de programação para jogos digitais é uma excelente opção para quem deseja ingressar nessa área rapidamente. 
+          O curso tem duração de um ano e meio e capacita os alunos a desenvolver jogos digitais para diversas plataformas, como 
+          computadores, consoles e dispositivos móveis.
+          - Fundamentos da programação, incluindo lógica, algoritmos, estruturas de dados e Programação Orientada a Objetos;
+          - Ferramentas e softwares utilizados no desenvolvimento de jogos e.g. GODOT;
+          - Normas e padrões de qualidade para jogos digitais.
+       
       - layout: right
         title: Senac Minas 
         sub_title: Orientador de Cursos
@@ -289,9 +294,9 @@ content:
         description: | 
           Cursos de atuação no <strong style="font-weight: bold;">Uniube</strong>:
 
-          Na universidade de Uberaba, ministrava aulas de práticas laboratoriais de lógica de programação,
-          linguagem técnica de programação, métodos, ferramentas computacionais e tecnologicas, para os cursos
-          de Engenharias Elétrica e Civil.
+          - Na universidade de Uberaba, ministrava aulas de práticas laboratoriais de lógica de programação,
+            linguagem técnica de programação, métodos, ferramentas computacionais e tecnologicas, para os cursos
+            de Engenharias Elétrica e Civil.
 
   - title: <span style="font-size:1.2em;color:#34495E"> <i class="fa-solid fa-book-journal-whills"></i> Formação Acadêmica </span> 
     layout: list
