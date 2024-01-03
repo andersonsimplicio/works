@@ -244,7 +244,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: CENTRO TÉCNICO PROFISSIONAL UNIPAC
+        title: CTP UNIPAC
         sub_title: Professor
         caption: Agosto 2023 - Atualmente
         link: https://www.unipac.br/
