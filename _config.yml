@@ -259,6 +259,22 @@ content:
           
           - Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
             min com a disciplina base do curso.
+      - layout: right
+        title: Senac Minas 
+        sub_title: Orientador de Cursos
+        caption: Janeiro 2013 - Novembro 2020
+        link: https://www.mg.senac.br/
+        quote: >
+          A Instituição é referência em educação profissional na área de comércio de bens, serviços e turismo.
+          O Senac oferece, nas modalidades presencial e a distância, cursos livres e técnicos, além de graduação e MBA . 
+        description: | 
+          Cursos de atuação no <strong style="font-weight:bold;color:#34495E">Senac</strong>:
+          
+          - Técnico em Redes de Computador com destaque para disciplina de Servidores Linux, na qual tinha paixão em lecionar
+            e quase sempre concluíamos o livro de Servidores Linux - Guia Prático (Carlos E. Morimoto).
+          
+          - Técnico em Desenvolvimento de Sistemas Com destaque para as disciplinas de Lógida de Programação considerada por 
+            min com a disciplina base do curso.
 
       - layout: right
         title: Universidade de Uberaba
